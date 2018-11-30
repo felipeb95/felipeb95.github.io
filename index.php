@@ -35,7 +35,7 @@
 								<!--<li><a href="#intro">Bienvenida</a></li>
 								<li><a href="#work">Work</a></li>-->
 								<li><a href="#about">Sobre mí</a></li>
-                                <li><a target="_blank" href="curriculum.pdf">Currículum</a></li>
+                                <li><a target="_blank" href="cv.pdf">Currículum</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
